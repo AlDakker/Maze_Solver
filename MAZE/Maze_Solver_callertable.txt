@@ -1,0 +1,14 @@
+main
+	__CC2DW
+		____DoICP
+	initialize
+	myDelay
+	move_forward
+		myDelay
+	stop
+		enables_off
+	move_left
+		myDelay
+	move_right
+		myDelay
+interrupt

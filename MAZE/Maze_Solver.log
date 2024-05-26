@@ -1,0 +1,8 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\user1\Desktop\New folder\MAZE\Maze_Solver.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\user1\Desktop\New folder\MAZE\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Maze_Solver.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	Maze_Solver.c
+diagnostics: 151	123	Compiled Successfully	Maze_Solver.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+diagnostics: 0	125	Project Linked Successfully	Maze_Solver.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Maze_Solver.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 26 May 2024, 22:31:15	Maze_Solver.mcppi
